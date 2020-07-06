@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\beata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\beata\\.nuget\\packages"
+    ]
+  }
+}

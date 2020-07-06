@@ -1,0 +1,15 @@
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\bin\Debug\netcoreapp3.1\PDFDataExtractor.exe
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.csprojAssemblyReference.cache
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.AssemblyInfoInputs.cache
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.AssemblyInfo.cs
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\bin\Debug\netcoreapp3.1\PDFDataExtractor.deps.json
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\bin\Debug\netcoreapp3.1\PDFDataExtractor.runtimeconfig.json
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\bin\Debug\netcoreapp3.1\PDFDataExtractor.runtimeconfig.dev.json
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\bin\Debug\netcoreapp3.1\PDFDataExtractor.dll
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\bin\Debug\netcoreapp3.1\PDFDataExtractor.pdb
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.csproj.CoreCompileInputs.cache
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.csproj.CopyComplete
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.dll
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.pdb
+C:\Users\beata\source\repos\PDFDataExtractor\PDFDataExtractor\obj\Debug\netcoreapp3.1\PDFDataExtractor.genruntimeconfig.cache
